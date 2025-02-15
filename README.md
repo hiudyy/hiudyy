@@ -1,36 +1,31 @@
-# Olá, sou o **Hiudy** 👋
+# Hi, I'm **Hiudy** 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiudyy)  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hiudyyy_)
 
-👨‍💻 **Sobre mim:**  
-Não sou desenvolvedor profissional, faço programação por hobby. Me interesso por **Node.js**, **Java**, **Kotlin**, e **JavaScript**. Adoro criar projetos como **bots** e automatizar tarefas.
+👨‍💻 **About Me:**  
+I'm not a professional developer; I code as a hobby. I have a strong interest in **Node.js**, **Java**, **Kotlin**, and **JavaScript**. I love creating projects like **bots** and automating tasks.
 
-🔧 **Tecnologias que uso frequentemente:**  
+🔧 **Technologies I Frequently Use:**  
 - **Backend:** Node.js, Java  
-- **Outras Linguagens:** Kotlin, JavaScript
+- **Other Languages:** Kotlin, JavaScript
 
 ---
 
-## 🚀 **Projetos em Destaque:**
-
-### **[ytdl (hiudyy/ytdl)](https://github.com/hiudyy/ytdl)**
-![ytdl](https://github-readme-stats.vercel.app/api/pin/?username=hiudyy&repo=ytdl&show_owner=true)
-
-Um repositório que facilita o download de vídeos do YouTube e outras plataformas de vídeo.
+## 🚀 **Featured Projects:**
 
 ### **[Nazuninha Bot (hiudyy/nazuninha-bot)](https://github.com/hiudyy/nazuninha-bot)**
 ![Nazuninha Bot](https://github-readme-stats.vercel.app/api/pin/?username=hiudyy&repo=nazuninha-bot&show_owner=true)
 
-Um bot completo para WhatsApp, desenvolvido com `Node.js` e a biblioteca `Baileys`, com várias funcionalidades.
+A fully-featured WhatsApp bot, developed with `Node.js` and the `Baileys` library, offering various functionalities.
 
 ---
 
-💡 **Dica para quem quer programar:**  
-Se você quer programar, pare de inventar desculpas. Eu mesmo nunca tive um computador, e programo diretamente pelo celular. Se você tem vontade, o que falta é apenas persistência. Não há limites para quem se dedica! 💪
+💡 **Programming Tip:**  
+If you want to program, stop making excuses. I didn’t even have a computer, and I started coding directly on my phone. If you have the passion, all you need is persistence. There are no limits for those who dedicate themselves! 💪
 
 ---
 
-💬 **Como me encontrar:**  
+💬 **How to Find Me:**  
 - [GitHub](https://github.com/hiudyy)  
-- [Instagram](https://instagram.com/hiudyyy_)  
+- [Instagram](https://instagram.com/hiudyyy_)
