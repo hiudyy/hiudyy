@@ -15,7 +15,7 @@ I'm not a professional developer; I code as a hobby. I have a strong interest in
 ## 🚀 **Featured Projects:**
 
 ### **[Nazuninha Bot (hiudyy/nazuninha-bot)](https://github.com/hiudyy/nazuninha-bot)**
-![Nazuninha Bot](https://github-readme-stats.vercel.app/api/pin/?username=hiudyy&repo=nazuninha-bot&show_owner=true&g=g)
+[![Nazuninha Bot](https://github-readme-stats.vercel.app/api/pin/?username=hiudyy&repo=nazuninha-bot&show_owner=true&g=g)](https://github.com/hiudyy/nazuninha-bot)
 
 A fully-featured WhatsApp bot, developed with `Node.js` and the `Baileys` library, offering various functionalities.
 
