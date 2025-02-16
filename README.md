@@ -26,6 +26,14 @@ If you want to program, stop making excuses. I didn’t even have a computer, an
 
 ---
 
+### 📢 Join My WhatsApp Channel!  
+
+Get exclusive updates and stay connected! 🚀  
+
+[![Join WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6bZMrEQIaq4jzEPv40)
+
+---
+
 💬 **How to Find Me:**  
 - [GitHub](https://github.com/hiudyy)  
 - [Instagram](https://instagram.com/hiudyyy_)
