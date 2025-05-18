@@ -37,3 +37,24 @@ Get exclusive updates and stay connected! 🚀
 💬 **How to Find Me:**  
 - [GitHub](https://github.com/hiudyy)  
 - [Instagram](https://instagram.com/hiudyyy_)
+
+---
+
+## Estatísticas do Perfil
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hiudyy&show_icons=true&theme=dracula&locale=pt-br)
+
+## Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hiudyy&layout=compact&theme=dracula&locale=pt-br)
+
+## Resumo de Contribuições
+![Resumo de Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiudyy&theme=dracula)
+
+## Seguidores
+![Seguidores no GitHub](https://img.shields.io/github/followers/hiudyy?style=social&label=Seguidores)
+
+## Visualizações do Perfil
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=hiudyy&label=Visualizações%20do%20Perfil&color=blue)
+
+## Widget de Perfil
+<div class="github-profile-badge" data-user="hiudyy"></div>
+<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
