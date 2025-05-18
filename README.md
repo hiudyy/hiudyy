@@ -40,21 +40,26 @@ Get exclusive updates and stay connected! 🚀
 
 ---
 
-## Estatísticas do Perfil
+## 🌸 Estatísticas do Perfil
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hiudyy&show_icons=true&theme=dracula&locale=pt-br)
 
-## Linguagens Mais Usadas
+## 🌸 Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hiudyy&layout=compact&theme=dracula&locale=pt-br)
 
-## Resumo de Contribuições
+## 🌸 Resumo de Contribuições
 ![Resumo de Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiudyy&theme=dracula)
 
-## Seguidores
+## 🌸 Repositórios Mais Populares
+![Repositórios Populares](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiudyy&theme=dracula)
+
+## 🌸 Seguidores
 ![Seguidores no GitHub](https://img.shields.io/github/followers/hiudyy?style=social&label=Seguidores)
 
-## Visualizações do Perfil
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=hiudyy&label=Visualizações%20do%20Perfil&color=blue)
+## 🌸 Visualizações do Perfil
+![Visualizações do Perfil](https://count.getloli.com/@hiudyy?name=hiudyy&theme=moebooru-h&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=0)
 
-## Widget de Perfil
-<div class="github-profile-badge" data-user="hiudyy"></div>
-<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>
+## 🌸 Streak de Contribuições
+![Streak de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=hiudyy&theme=dracula&locale=pt-br)
+
+## 🌸 Conquistas no GitHub
+![Conquistas](https://github-profile-trophy.vercel.app/?username=hiudyy&theme=dracula&no-frame=true)
