@@ -75,8 +75,19 @@ const hiudy = {
 
 ---
 
-💡 **Programming Tip:**  
-If you want to program, stop making excuses. I didn’t even have a computer, and I started coding directly on my phone. If you have the passion, all you need is persistence. There are no limits for those who dedicate themselves! 💪
+<div align="center">
+
+## 💫 Inspiration Corner
+
+> ### *"I started coding on my phone because I had no computer.*  
+> ### *If I can do it, so can you!"* 💪
+> 
+> **🌟 Stop making excuses. Start making progress.**  
+> **🚀 Passion + Persistence = Unlimited Possibilities** ✨
+> 
+> *"There are no limits for those who dedicate themselves!"*
+
+</div>
 
 ---
 
